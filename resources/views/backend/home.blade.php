@@ -1,4 +1,4 @@
-@extends('layouts.app')
+@extends('backend.layouts.app')
 
 @section('content')
 <div class="container">
@@ -18,7 +18,7 @@
             </div>
 
          <div id="example">
-             
+
          </div>
         </div>
     </div>

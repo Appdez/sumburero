@@ -11,6 +11,18 @@ const mix = require('laravel-mix');
  |
  */
 
-mix.js('resources/js/app.js', 'public/js')
-    .react()
-    .sass('resources/sass/app.scss', 'public/css');
+
+ /**
+  * |-----------------------------------------------------------------
+  * | Backend Assets generator
+  * |-----------------------------------------------------------------
+  */
+mix.js('resources/assets/backend/js/app.js', 'public/backend/js')
+    .sass('resources/assets/backend/sass/app.scss', 'public/backend/css')
+ /**
+  * |-----------------------------------------------------------------
+  * | Website Assets generator
+  * |-----------------------------------------------------------------
+  */
+  .js('resources/assets/website/js/app.js', 'public/website/js')
+  .sass('resources/assets/website/sass/app.scss', 'public/website/css');
