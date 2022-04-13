@@ -5393,16 +5393,6 @@ window.axios.defaults.headers.common['X-Requested-With'] = 'XMLHttpRequest';
 
 /***/ }),
 
-/***/ "./resources/assets/website/js/components/Example.js":
-/*!***********************************************************!*\
-  !*** ./resources/assets/website/js/components/Example.js ***!
-  \***********************************************************/
-/***/ (() => {
-
-throw new Error("Module build failed (from ./node_modules/babel-loader/lib/index.js):\nSyntaxError: C:\\wamp64\\www\\sumburero\\resources\\assets\\website\\js\\components\\Example.js: Support for the experimental syntax 'jsx' isn't currently enabled (6:9):\n\n\u001b[0m \u001b[90m 4 |\u001b[39m \u001b[36mfunction\u001b[39m \u001b[33mExample\u001b[39m() {\u001b[0m\n\u001b[0m \u001b[90m 5 |\u001b[39m     \u001b[36mreturn\u001b[39m (\u001b[0m\n\u001b[0m\u001b[31m\u001b[1m>\u001b[22m\u001b[39m\u001b[90m 6 |\u001b[39m         \u001b[33m<\u001b[39m\u001b[33mdiv\u001b[39m className\u001b[33m=\u001b[39m\u001b[32m\"container\"\u001b[39m\u001b[33m>\u001b[39m\u001b[0m\n\u001b[0m \u001b[90m   |\u001b[39m         \u001b[31m\u001b[1m^\u001b[22m\u001b[39m\u001b[0m\n\u001b[0m \u001b[90m 7 |\u001b[39m             \u001b[33m<\u001b[39m\u001b[33mdiv\u001b[39m className\u001b[33m=\u001b[39m\u001b[32m\"row justify-content-center\"\u001b[39m\u001b[33m>\u001b[39m\u001b[0m\n\u001b[0m \u001b[90m 8 |\u001b[39m                 \u001b[33m<\u001b[39m\u001b[33mdiv\u001b[39m className\u001b[33m=\u001b[39m\u001b[32m\"col-md-8\"\u001b[39m\u001b[33m>\u001b[39m\u001b[0m\n\u001b[0m \u001b[90m 9 |\u001b[39m                     \u001b[33m<\u001b[39m\u001b[33mdiv\u001b[39m className\u001b[33m=\u001b[39m\u001b[32m\"card\"\u001b[39m\u001b[33m>\u001b[39m\u001b[0m\n\nAdd @babel/preset-react (https://git.io/JfeDR) to the 'presets' section of your Babel config to enable transformation.\nIf you want to leave it as-is, add @babel/plugin-syntax-jsx (https://git.io/vb4yA) to the 'plugins' section to enable parsing.\n    at instantiate (C:\\wamp64\\www\\sumburero\\node_modules\\@babel\\parser\\lib\\index.js:72:32)\n    at constructor (C:\\wamp64\\www\\sumburero\\node_modules\\@babel\\parser\\lib\\index.js:358:12)\n    at Parser.raise (C:\\wamp64\\www\\sumburero\\node_modules\\@babel\\parser\\lib\\index.js:3334:19)\n    at Parser.expectOnePlugin (C:\\wamp64\\www\\sumburero\\node_modules\\@babel\\parser\\lib\\index.js:3391:18)\n    at Parser.parseExprAtom (C:\\wamp64\\www\\sumburero\\node_modules\\@babel\\parser\\lib\\index.js:12969:18)\n    at Parser.parseExprSubscripts (C:\\wamp64\\www\\sumburero\\node_modules\\@babel\\parser\\lib\\index.js:12539:23)\n    at Parser.parseUpdate (C:\\wamp64\\www\\sumburero\\node_modules\\@babel\\parser\\lib\\index.js:12518:21)\n    at Parser.parseMaybeUnary (C:\\wamp64\\www\\sumburero\\node_modules\\@babel\\parser\\lib\\index.js:12489:23)\n    at Parser.parseMaybeUnaryOrPrivate (C:\\wamp64\\www\\sumburero\\node_modules\\@babel\\parser\\lib\\index.js:12283:61)\n    at Parser.parseExprOps (C:\\wamp64\\www\\sumburero\\node_modules\\@babel\\parser\\lib\\index.js:12290:23)");
-
-/***/ }),
-
 /***/ "./node_modules/bootstrap/dist/js/bootstrap.esm.js":
 /*!*********************************************************!*\
   !*** ./node_modules/bootstrap/dist/js/bootstrap.esm.js ***!
@@ -27933,9 +27923,7 @@ __webpack_require__(/*! ./bootstrap */ "./resources/assets/website/js/bootstrap.
  * the page. Then, you may begin adding components to this application
  * or customize the JavaScript scaffolding to fit your unique needs.
  */
-
-
-__webpack_require__(/*! ./components/Example */ "./resources/assets/website/js/components/Example.js");
+// require('./components/Example');
 })();
 
 /******/ })()

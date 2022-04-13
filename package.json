@@ -24,7 +24,7 @@
         "sass-loader": "^11.0.1"
     },
     "dependencies": {
-        "async": "^3.2.3",
+        "async": "^3.2.2",
         "portfinder": "^1.0.28",
         "webpack-dev-server": "^4.8.1"
     }
