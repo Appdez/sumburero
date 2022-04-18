@@ -261,72 +261,72 @@ $(document).ready(function () {
        });
        //$('select').select2();
    }
-    datatable('#example');
-    datatable('#users_table');
-    datatable('#periods_table');
-    datatable('#civil_states_table');
-    datatable('#payment_phases_table');
-    datatable('#students_table');
-    datatable('#veicle_classes_table');
-    datatable('#exam_types_table');
-    datatable('#class_rooms_table');
-    datatable('#dashboard_payments_tables');
+    // datatable('#example');
+    // datatable('#users_table');
+    // datatable('#periods_table');
+    // datatable('#civil_states_table');
+    // datatable('#payment_phases_table');
+    // datatable('#students_table');
+    // datatable('#veicle_classes_table');
+    // datatable('#exam_types_table');
+    // datatable('#class_rooms_table');
+    // datatable('#dashboard_payments_tables');
 
 
-    const date = new Date('12/31/2001');
-     date.setYear((new Date().getFullYear() - 15));
-    console.log(date);
+    // const date = new Date('12/31/2001');
+    //  date.setYear((new Date().getFullYear() - 15));
+    // // console.log(date);
 
-    $('#birth_day').daterangepicker({
-        singleDatePicker:true,
-        maxDate:date,
-        startDate: date,
-        showDropdowns: true,
-        autoUpdateInput:true,
-        drops: "auto"
-    });
+    // $('#birth_day').daterangepicker({
+    //     singleDatePicker:true,
+    //     maxDate:date,
+    //     startDate: date,
+    //     showDropdowns: true,
+    //     autoUpdateInput:true,
+    //     drops: "auto"
+    // });
 
-    $('#dates').daterangepicker({
-        showDropdowns : true,
-        autoUpdateInput:true,
-        locale: {
-            format: 'D-MM-Y',
-            separator: " to "
-        },
-        ranges: {
-            'Hoje': [moment(), moment()],
-            'Ontem': [moment().subtract(1, 'days'), moment().subtract(1, 'days')],
-            'Últimos 7 Dias': [moment().subtract(6, 'days'), moment()],
-            'Últimos 30 Dias': [moment().subtract(29, 'days'), moment()],
-            'Este mês': [moment().startOf('month'), moment().endOf('month')],
-            'Mês passado': [moment().subtract(1, 'month').startOf('month'), moment().subtract(1, 'month').endOf('month')]
-         }
-    });
+    // $('#dates').daterangepicker({
+    //     showDropdowns : true,
+    //     autoUpdateInput:true,
+    //     locale: {
+    //         format: 'D-MM-Y',
+    //         separator: " to "
+    //     },
+    //     ranges: {
+    //         'Hoje': [moment(), moment()],
+    //         'Ontem': [moment().subtract(1, 'days'), moment().subtract(1, 'days')],
+    //         'Últimos 7 Dias': [moment().subtract(6, 'days'), moment()],
+    //         'Últimos 30 Dias': [moment().subtract(29, 'days'), moment()],
+    //         'Este mês': [moment().startOf('month'), moment().endOf('month')],
+    //         'Mês passado': [moment().subtract(1, 'month').startOf('month'), moment().subtract(1, 'month').endOf('month')]
+    //      }
+    // });
 
-    const biDate =  new Date();
-    biDate.setYear((new Date().getFullYear() - 5));
-    $('#id_emision_date').daterangepicker({
-        singleDatePicker:true,
-        maxDate:new Date(),
-        startDate: biDate,
-        minDate: biDate,
-        showDropdowns: true,
-        autoUpdateInput:true,
-        drops: "auto"
-    });
+    // const biDate =  new Date();
+    // biDate.setYear((new Date().getFullYear() - 5));
+    // $('#id_emision_date').daterangepicker({
+    //     singleDatePicker:true,
+    //     maxDate:new Date(),
+    //     startDate: biDate,
+    //     minDate: biDate,
+    //     showDropdowns: true,
+    //     autoUpdateInput:true,
+    //     drops: "auto"
+    // });
 
 
-    $('#init_at').timepicker({
-        use24hours: true,
-        showMeridian: false,
-        timeFormat: 'H:i',
-        disableTimeRanges:[['0:00', '5:30'], ['21:00', '23:59']]
-    });
-    $('#end_at').timepicker({
-        use24hours: true,
-        showMeridian: false,
-        timeFormat: 'H:i',
-        disableTimeRanges:[['0:00', '5:30'], ['21:00', '23:59']]
-    });
+    // $('#init_at').timepicker({
+    //     use24hours: true,
+    //     showMeridian: false,
+    //     timeFormat: 'H:i',
+    //     disableTimeRanges:[['0:00', '5:30'], ['21:00', '23:59']]
+    // });
+    // $('#end_at').timepicker({
+    //     use24hours: true,
+    //     showMeridian: false,
+    //     timeFormat: 'H:i',
+    //     disableTimeRanges:[['0:00', '5:30'], ['21:00', '23:59']]
+    // });
 });
 

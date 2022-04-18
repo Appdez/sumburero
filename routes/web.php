@@ -18,6 +18,11 @@ Route::get('/', function () {
     return view('website.welcome');
 });
 
-Auth::routes();
+Auth::routes([
+    'register' => false,
+    'reset' => false,
+    'verify' => false,
+    'confirm' => false
+]);
 
-Route::get('/home', [App\Http\Controllers\Backend\HomeController::class, 'index'])->name('home');
+Route::get('/dashboard', [App\Http\Controllers\Backend\HomeController::class, 'index'])->name('dashboard');

@@ -12,7 +12,7 @@ import( 'datatables.net-fixedcolumns-bs5/js/fixedColumns.bootstrap5' );
 import( 'datatables.net-fixedheader-bs5/js/fixedHeader.bootstrap5' );
 import( 'datatables.net-keytable-bs5' );
 import( 'datatables.net-rowgroup-bs5/js/rowGroup.bootstrap5' );
-import( 'datatables.net-rowreorder-bs5' );
+//import( 'datatables.net-rowreorder-bs5' );
 import( 'datatables.net-scroller-bs5' );
 import( 'datatables.net-searchbuilder-bs5/js/searchBuilder.bootstrap5' );
 import( 'datatables.net-searchpanes-bs5' );
