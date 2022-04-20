@@ -26,7 +26,10 @@
         "sass-loader": "^11.0.1"
     },
     "dependencies": {
+        "@srexi/purecounterjs": "^1.5.0",
+        "aos": "^2.3.4",
         "async": "^3.2.3",
+        "bootstrap-icons": "^1.8.1",
         "chart.js": "^3.7.0",
         "datatables.net": "^1.11.4",
         "datatables.net-autofill-bs5": "^2.3.9",
@@ -50,15 +53,20 @@
         "daterangepicker": "^3.1.0",
         "feather-icons": "^4.28.0",
         "flatpickr": "^4.6.9",
+        "glightbox": "^3.2.0",
+        "isotope": "^1.0.0-alpha.3",
+        "isotope-layout": "^3.0.6",
         "jquery": "^3.6.0",
         "jsvectormap": "^1.4.2",
         "jszip": "^3.9.1",
         "moment": "^2.29.1",
         "pdfmake": "^0.2.5",
         "print-js": "^1.6.0",
+        "remixicon": "^2.5.0",
         "select2": "^4.1.0-rc.0",
         "selectric": "^1.13.0",
         "simplebar": "^5.3.6",
+        "swiper": "^8.1.1",
         "timepicker": "^1.13.18"
     }
 }

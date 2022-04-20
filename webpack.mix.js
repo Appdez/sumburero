@@ -30,4 +30,5 @@ mix.js('resources/assets/backend/js/app.js', 'public/backend/js')
   * |-----------------------------------------------------------------
   */
   .js('resources/assets/website/js/app.js', 'public/website/js')
+  .copyDirectory('resources/assets/website/img','public/website/img')
   .sass('resources/assets/website/sass/app.scss', 'public/website/css');
