@@ -11,6 +11,7 @@
     <link rel="stylesheet" href="{{ asset('website/css/app.css') }}">
 </head>
 <body>
+    @include('website.layouts.shared.navbar')
     @yield('content')
     <script src="{{ asset('website/js/app.js') }}"></script>
 </body>
