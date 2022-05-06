@@ -103,7 +103,7 @@
                         <div class="col-xl-4 text-center aos-init aos-animate justify-center" data-aos="fade-right"
                             data-aos-delay="100">
                             <h3>Principais Actividades</h3>
-                            <img src="http://www.sumburero.orgs/website/images/20210427_141541.jpg"
+                            <img src="{{asset('website/images/20210427_141541.jpg')}}"
                                 class="img-fluid rounded-3 p-4" alt="">
                         </div>
 
@@ -231,7 +231,7 @@
                     data-aos-delay="100">
                     <div class="member">
                         <div class="member-img">
-                            <img src="http://www.sumburero.orgs/website/images/20210427_141541.jpg" class="img-fluid"
+                            <img src="{{asset('website/images/20210427_141541.jpg')}}" class="img-fluid"
                                 alt="">
                             <div class="social">
                                 <a href=""><i class="bi bi-twitter"></i></a>
@@ -252,7 +252,7 @@
                     data-aos-delay="200">
                     <div class="member">
                         <div class="member-img">
-                            <img src="http://www.sumburero.orgs/website/images/20210427_141541.jpg" class="img-fluid"
+                            <img src="{{asset('website/images/20210427_141541.jpg')}}" class="img-fluid"
                                 alt="">
                             <div class="social">
                                 <a href=""><i class="bi bi-twitter"></i></a>
@@ -273,7 +273,7 @@
                     data-aos-delay="300">
                     <div class="member">
                         <div class="member-img">
-                            <img src="http://www.sumburero.orgs/website/images/20210427_141541.jpg" class="img-fluid"
+                            <img src="{{asset('website/images/20210427_141541.')}}" class="img-fluid"
                                 alt="">
                             <div class="social">
                                 <a href=""><i class="bi bi-twitter"></i></a>
@@ -294,7 +294,7 @@
                     data-aos-delay="400">
                     <div class="member">
                         <div class="member-img">
-                            <img src="http://www.sumburero.orgs/website/images/20210427_141541.jpg" class="img-fluid"
+                            <img src="{{asset('website/images/20210427_141541.jpg')}}" class="img-fluid"
                                 alt="">
                             <div class="social">
                                 <a href=""><i class="bi bi-twitter"></i></a>
@@ -331,7 +331,7 @@
                     data-aos-delay="100">
                     <div class="member">
                         <div class="member-img">
-                            <img src="http://www.sumburero.orgs/website/images/20210427_141541.jpg" class="img-fluid"
+                            <img src="{{asset('website/images/20210427_141541.jpg')}}" class="img-fluid"
                                 alt="">
                             <div class="social">
                                 <a href=""><i class="bi bi-twitter"></i></a>
@@ -352,7 +352,7 @@
                     data-aos-delay="200">
                     <div class="member">
                         <div class="member-img">
-                            <img src="http://www.sumburero.orgs/website/images/20210427_141541.jpg" class="img-fluid"
+                            <img src="{{asset('website/images/20210427_141541.jpg')}}" class="img-fluid"
                                 alt="">
                             <div class="social">
                                 <a href=""><i class="bi bi-twitter"></i></a>
@@ -373,7 +373,7 @@
                     data-aos-delay="300">
                     <div class="member">
                         <div class="member-img">
-                            <img src="http://www.sumburero.orgs/website/images/20210427_141541.jpg" class="img-fluid"
+                            <img src="{{asset('website/images/20210427_141541.jpg')}}" class="img-fluid"
                                 alt="">
                             <div class="social">
                                 <a href=""><i class="bi bi-twitter"></i></a>
@@ -394,7 +394,7 @@
                     data-aos-delay="400">
                     <div class="member">
                         <div class="member-img">
-                            <img src="http://www.sumburero.orgs/website/images/20210427_141541.jpg" class="img-fluid"
+                            <img src="{{asset('website/images/20210427_141541.jpg')}}" class="img-fluid"
                                 alt="">
                             <div class="social">
                                 <a href=""><i class="bi bi-twitter"></i></a>
