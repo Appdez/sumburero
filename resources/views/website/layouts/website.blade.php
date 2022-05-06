@@ -12,7 +12,10 @@
 </head>
 <body>
     @include('website.layouts.shared.navbar')
-    @yield('content')
+    <main>
+        @yield('content')
+    </main>
+    @include('website.layouts.shared.footer')
     <script src="{{ asset('website/js/app.js') }}"></script>
 </body>
 </html>
