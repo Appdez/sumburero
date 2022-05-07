@@ -2,6 +2,7 @@
 <nav class="navbar navbar-expand-lg navbar-light bg-white sticky-top sh">
     <div class="container-fluid">
         <a class="navbar-brand" href="{{ url('/') }}">{{ config('app.name', 'Sumburero') }}</a>
+
         <button class="navbar-toggler" type="button" data-bs-toggle="offcanvas" data-bs-target="#offcanvasExample"
             aria-controls="offcanvasExample">
             <span class="navbar-toggler-icon"></span>
@@ -20,13 +21,13 @@
                 <li class="nav-item">
                     <a class="nav-link ">Contacte -nos</a>
                 </li>
-                <li class="nav-item">
-                    <a class="nav-link btn btn-danger rounded-3 px-5" style="padding: 4px;color:white">Website ainda em desenvolvimento</a>
-                </li>
             </ul>
         </div>
     </div>
 </nav>
+<div class="alert alert-danger sticky" role="alert">
+    <strong>O website Sumburero ainda esta em desenvolvimento</strong>
+</div>
 
 
 <div class="offcanvas offcanvas-end" tabindex="-1" id="offcanvasExample" aria-labelledby="offcanvasExampleLabel">
