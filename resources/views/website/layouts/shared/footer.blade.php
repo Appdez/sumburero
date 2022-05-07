@@ -11,7 +11,8 @@
                   <p></p>
                 </div>
                 <div class="col-lg-10 row">
-                  <form action="" method="post" class="row">
+                  <form action="" method="get" class="row">
+                      @csrf
                     <input type="email" name="email" class="form-control col p-2 mx-4 btn-rounded" placeholder="   Digite seu email">
                     <input type="submit" value="Subsrcever - se"  class="btn btn-secondary btn-rounded col p-4-px">
                   </form>
