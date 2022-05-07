@@ -16,6 +16,9 @@
         @yield('content')
     </main>
     @include('website.layouts.shared.footer')
+
+    @include('website.layouts.shared.chatplugin')
     <script src="{{ asset('website/js/app.js') }}"></script>
+
 </body>
 </html>

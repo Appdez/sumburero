@@ -91,22 +91,13 @@
 
                         <div class="col-xl-8 d-flex content">
                             <div class="row align-self-center justify-content-between gy-4">
-
-                                <div class="col-md-6 row  card no-border p-16-px mb-3" data-aos="fade-up">
-                                    <i class="ri-line-chart-line"></i>
-                                    <div>
-                                        <h4>Apoio a documentação</h4>
-                                        <p>Actividade que visa promover a documentação que identificam a cidadania de um indivíduo
-                                            </p>
-                                    </div>
-                                </div>
-
                                 <div class="col-md-6 row  card no-border p-16-px mb-3" data-aos="fade-up"
                                     data-aos-delay="100">
                                     <i class="ri-stack-line"></i>
                                     <div>
                                         <h4>Formação e Inserção profissional</h4>
-                                        <p>Visa apoiar jovens e adulta na potencialização de habilidades para o mercado e de emprego.</p>
+                                        <p>Visa apoiar jovens e adulta na potencialização de habilidades para o mercado e de
+                                            emprego.</p>
                                     </div>
                                 </div>
 
@@ -114,7 +105,7 @@
                                     data-aos-delay="200">
                                     <i class="ri-brush-4-line"></i>
                                     <div>
-                                        <h4>Labore consequatur</h4>
+                                        <h4>Proteção social</h4>
                                         <p>Aut suscipit aut cum nemo deleniti aut omnis. Doloribus ut maiores omnis facere
                                         </p>
                                     </div>
@@ -124,7 +115,7 @@
                                     data-aos-delay="300">
                                     <i class="ri-magic-line"></i>
                                     <div>
-                                        <h4>Beatae veritatis</h4>
+                                        <h4>Monitoria e Avaliação</h4>
                                         <p>Expedita veritatis consequuntur nihil tempore laudantium vitae denat pacta</p>
                                     </div>
                                 </div>
@@ -133,20 +124,10 @@
                                     data-aos-delay="400">
                                     <i class="ri-command-line"></i>
                                     <div>
-                                        <h4>Molestiae dolor</h4>
+                                        <h4>Apoio Institucional</h4>
                                         <p>Et fuga et deserunt et enim. Dolorem architecto ratione tensa raptor marte</p>
                                     </div>
                                 </div>
-
-                                <div class=" card col-md-6 row  card no-border p-16-px mb-3 no-border p-16-px"
-                                    data-aos="fade-up" data-aos-delay="500">
-                                    <i class="ri-radar-line"></i>
-                                    <div>
-                                        <h4>Explicabo consectetur</h4>
-                                        <p>Est autem dicta beatae suscipit. Sint veritatis et sit quasi ab aut inventore</p>
-                                    </div>
-                                </div>
-
                             </div>
                         </div>
 
@@ -214,7 +195,7 @@
                             </div>
                         </div>
                         <div class="member-info">
-                            <span>Chief Executive Officer</span>
+
                             <p>Velit aut quia fugit et et. Dolorum ea voluptate vel tempore tenetur ipsa quae aut. Ipsum
                                 exercitationem iure minima enim corporis et voluptate.</p>
                         </div>
@@ -233,7 +214,7 @@
                             </div>
                         </div>
                         <div class="member-info">
-                            <span>Product Manager</span>
+
                             <p>Quo esse repellendus quia id. Est eum et accusantium pariatur fugit nihil minima suscipit
                                 corporis. Voluptate sed quas reiciendis animi neque sapiente.</p>
                         </div>
@@ -243,7 +224,7 @@
                 <div class="col-lg-3 col-md-6 d-flex align-items-stretch  " data-aos="fade-up" data-aos-delay="300">
                     <div class="member">
                         <div class="member-img">
-                            <img src="{{ asset('website/images/20210427_141541.') }}" class="img-fluid" alt="">
+                            <img src="{{ asset('website/images/20210427_141541.jpg') }}" class="img-fluid" alt="">
                             <div class="social">
                                 <a href=""><i class="bi bi-twitter"></i></a>
                                 <a href=""><i class="bi bi-facebook"></i></a>
@@ -252,7 +233,7 @@
                             </div>
                         </div>
                         <div class="member-info">
-                            <span>CTO</span>
+
                             <p>Vero omnis enim consequatur. Voluptas consectetur unde qui molestiae deserunt. Voluptates
                                 enim aut architecto porro aspernatur molestiae modi.</p>
                         </div>
@@ -271,7 +252,7 @@
                             </div>
                         </div>
                         <div class="member-info">
-                            <span>Accountant</span>
+
                             <p>Rerum voluptate non adipisci animi distinctio et deserunt amet voluptas. Quia aut aliquid
                                 doloremque ut possimus ipsum officia.</p>
                         </div>
@@ -306,7 +287,7 @@
                             </div>
                         </div>
                         <div class="member-info">
-                            <span>Chief Executive Officer</span>
+
                             <p>Velit aut quia fugit et et. Dolorum ea voluptate vel tempore tenetur ipsa quae aut. Ipsum
                                 exercitationem iure minima enim corporis et voluptate.</p>
                         </div>
@@ -325,7 +306,7 @@
                             </div>
                         </div>
                         <div class="member-info">
-                            <span>Product Manager</span>
+
                             <p>Quo esse repellendus quia id. Est eum et accusantium pariatur fugit nihil minima suscipit
                                 corporis. Voluptate sed quas reiciendis animi neque sapiente.</p>
                         </div>
@@ -344,7 +325,7 @@
                             </div>
                         </div>
                         <div class="member-info">
-                            <span>CTO</span>
+
                             <p>Vero omnis enim consequatur. Voluptas consectetur unde qui molestiae deserunt. Voluptates
                                 enim aut architecto porro aspernatur molestiae modi.</p>
                         </div>
@@ -363,7 +344,7 @@
                             </div>
                         </div>
                         <div class="member-info">
-                            <span>Accountant</span>
+                          
                             <p>Rerum voluptate non adipisci animi distinctio et deserunt amet voluptas. Quia aut aliquid
                                 doloremque ut possimus ipsum officia.</p>
                         </div>
