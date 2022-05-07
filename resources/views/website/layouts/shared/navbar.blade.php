@@ -1,5 +1,5 @@
 
-<nav class="navbar navbar-expand-lg navbar-light bg-white sticky-top sh">
+<div class="sticky-top"><nav class="navbar navbar-expand-lg navbar-light bg-white  sh">
     <div class="container-fluid">
         <a class="navbar-brand" href="{{ url('/') }}">{{ config('app.name', 'Sumburero') }}</a>
 
@@ -24,9 +24,11 @@
             </ul>
         </div>
     </div>
+
 </nav>
-<div class="alert alert-danger sticky" role="alert">
+<div class=" container-fluid alert alert-danger  w-100" role="alert">
     <strong>O website Sumburero ainda esta em desenvolvimento</strong>
+</div>
 </div>
 
 
