@@ -1,5 +1,5 @@
   <!-- ======= Footer ======= -->
-  <footer id="footer" class="footer" >
+  <footer id="footer" class="footer" data-aos="fade-up" >
 
     <div class="footer-newsletter">
       <div class="container">

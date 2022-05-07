@@ -7,8 +7,7 @@
             <div class="row justify-content-center">
                 <div class="col-11 mt-3">
                     <div class="row gx-0">
-                        <div class="col-lg-6 d-flex flex-column justify-content-center aos-init aos-animate"
-                            data-aos="fade-up" data-aos-delay="200">
+                        <div class="col-lg-6 d-flex flex-column justify-content-center  " data-aos="fade-left">
                             <div class="content bg-white" style="padding: 40px">
 
                                 <h2>Sumburero</h2>
@@ -24,7 +23,7 @@
                                 </p>
                                 <div class="text-center text-lg-start">
                                     <a href="#"
-                                        class=" d-inline-flex align-items-center justify-content-center align-self-center">
+                                        class="btn btn-dark-light btn-rounded  d-inline-flex align-items-center justify-content-center align-self-center">
                                         <span>ver mais</span>
                                         <i class="bi bi-arrow-right"></i>
                                     </a>
@@ -34,10 +33,8 @@
 
                         </div>
 
-                        <div class="col-lg-6 d-flex align-items-center aos-init aos-animate" data-aos="zoom-out"
-                            data-aos-delay="200">
-                            <img src="{{ asset('website/images/20210427_141541.jpg') }}" class="img-fluid rounded-3"
-                                alt="">
+                        <div class="col-lg-6 d-flex align-items-center  " data-aos="zoom-out" data-aos-delay="200">
+                            <img src="{{ asset('website/images/home.jpg') }}" class="img-fluid rounded-3" alt="">
                         </div>
 
                     </div>
@@ -50,39 +47,25 @@
             <div class="row justify-content-center">
                 <div class="col-11 mt-3">
                     <div class="row gy-4 mt-3">
-                        <div class="col-lg-4 col-md-6">
+                        <div class="col-lg-6 col-md-6  " data-aos="fade-right">
                             <div class="card no-border p-16-px">
                                 <div class="card-body">
                                     <h3>Missão</h3>
-                                    <p>Non et temporibus minus omnis sed dolor esse consequatur. Cupiditate sed error ea
-                                        fuga sit
-                                        provident adipisci nequet temporibus minus omnis sed dolor esse consequatur.
-                                        Cupiditate sed error ea fuga sit
-                                        provident adipisci neque.</p>
+                                    <p>É de promover o desenvolvimento sustentável de estratégias de acção que visam
+                                        contribuir para a protecção Social da criança através de realização de pesquisas,
+                                        assistência técnica, desenvolvimento de ferramentas informáticas para monitoria e
+                                        avaliação dos projectos, mobilização de recursos e recolha de doações.</p>
                                 </div>
                             </div>
                         </div>
-                        <div class="col-lg-4 col-md-6">
+                        <div class="col-lg-6 col-md-6  " data-aos="fade-left" data-aos-delay="200">
                             <div class="card no-border p-16-px">
                                 <div class="card-body">
                                     <h3>Visão</h3>
-                                    <p>Non et temporibus minus omnis sed dolor esse consequatur. Cupiditate sed error ea
-                                        fuga sit
-                                        provident adipisci nequet temporibus minus omnis sed dolor esse consequatur.
-                                        Cupiditate sed error ea fuga sit
-                                        provident adipisci neque.</p>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-lg-4 col-md-6">
-                            <div class="card no-border p-16-px">
-                                <div class="card-body">
-                                    <h3>Objectivos</h3>
-                                    <p>Non et temporibus minus omnis sed dolor esse consequatur. Cupiditate sed error ea
-                                        fuga sit
-                                        provident adipisci nequet temporibus minus omnis sed dolor esse consequatur.
-                                        Cupiditate sed error ea fuga sit
-                                        provident adipisci neque.</p>
+                                    <p>É de uma sociedade que zela pelos direitos das suas crianças garantindo a estas o
+                                        acesso a educação básica, a água e saneamento, aos cuidados de saúde materno
+                                        infantil, a medicina preventiva, a protecção e ao lazer, promovendo assim um bom
+                                        desenvolvimento psicossocial das crianças de Sofala.</p>
                                 </div>
                             </div>
                         </div>
@@ -100,11 +83,10 @@
                 <div class="col-11 gy4 mt-3">
                     <div class="row">
 
-                        <div class="col-xl-4 text-center aos-init aos-animate justify-center" data-aos="fade-right"
-                            data-aos-delay="100">
+                        <div class="col-xl-4 text-center   justify-center" data-aos="fade-right" data-aos-delay="100">
                             <h3>Principais Actividades</h3>
-                            <img src="{{asset('website/images/20210427_141541.jpg')}}"
-                                class="img-fluid rounded-3 p-4" alt="">
+                            <img src="{{ asset('website/images/actividades.jpg') }}" class="img-fluid btn-rounded p-4"
+                                alt="">
                         </div>
 
                         <div class="col-xl-8 d-flex content">
@@ -113,9 +95,9 @@
                                 <div class="col-md-6 row  card no-border p-16-px mb-3" data-aos="fade-up">
                                     <i class="ri-line-chart-line"></i>
                                     <div>
-                                        <h4>Corporis voluptates sit</h4>
-                                        <p>Consequuntur sunt aut quasi enim aliquam quae harum pariatur laboris nisi ut
-                                            aliquip</p>
+                                        <h4>Apoio a documentação</h4>
+                                        <p>Actividade que visa promover a documentação que identificam a cidadania de um indivíduo
+                                            </p>
                                     </div>
                                 </div>
 
@@ -123,9 +105,8 @@
                                     data-aos-delay="100">
                                     <i class="ri-stack-line"></i>
                                     <div>
-                                        <h4>Ullamco laboris nisi</h4>
-                                        <p>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia
-                                            deserunt</p>
+                                        <h4>Formação e Inserção profissional</h4>
+                                        <p>Visa apoiar jovens e adulta na potencialização de habilidades para o mercado e de emprego.</p>
                                     </div>
                                 </div>
 
@@ -181,26 +162,20 @@
                 <div class="col-11 mt-3">
                     <div class="row gx-0 mt-3">
 
-                        <div class="col-lg-6 d-flex align-items-center aos-init aos-animate" data-aos="zoom-out"
+                        <div class="col-lg-6 d-flex align-items-center aos-init aos-animate  " data-aos="zoom-out"
                             data-aos-delay="200">
-                            <img src="{{ asset('website/images/20210427_141541.jpg') }}" class="img-fluid rounded-3"
-                                alt="">
+                            <img src="{{ asset('website/images/uniadeMovel.jpg') }}" class="img-fluid rounded-3" alt="">
                         </div>
 
-                        <div class="col-lg-6 d-flex flex-column justify-content-center aos-init aos-animate"
-                            data-aos="fade-up" data-aos-delay="200">
+                        <div class="col-lg-6 d-flex flex-column justify-content-center  " data-aos="fade-up"
+                            data-aos-delay="200">
                             <div class="content bg-white" style="padding: 40px">
 
                                 <h2>Unidade Móvel</h2>
                                 <p>
-                                    É uma organização sem fins lucrativos que tem suas actividades baseadas na experiência e
-                                    aprendizado
-                                    de varias Organizações
-                                    da Sociedade Civil como ESSOR, CCM, OASIS, PNDH, Universidade Zambeze desde
-                                    vários anos actuando na província de Sofala, Moçambique; assim como através da avaliação
-                                    do contexto da Protecção Social da Criança realizada através de uma pesquisa em
-                                    8 Distritos em 2017 e tendo em conta as prioridades de acção do Governo no que
-                                    respeita a Protecção Social.
+                                    É uma brigada que visa levar os serviços socias as comunidades que
+                                    localizam –se em zonas com difícil acesso a transporte, que tem menos conhecimentos
+                                    sobre a importância de se beneficiar destes serviços .
                                 </p>
 
 
@@ -218,7 +193,7 @@
 
     <section id="team" class="team">
 
-        <div class="container aos-init aos-animate" data-aos="fade-up">
+        <div class="container  " data-aos="fade-up">
 
             <header class="section-header">
                 <h2>Post's</h2>
@@ -227,12 +202,10 @@
 
             <div class="row gy-4">
 
-                <div class="col-lg-3 col-md-6 d-flex align-items-stretch aos-init aos-animate" data-aos="fade-up"
-                    data-aos-delay="100">
+                <div class="col-lg-3 col-md-6 d-flex align-items-stretch  " data-aos="fade-up" data-aos-delay="100">
                     <div class="member">
                         <div class="member-img">
-                            <img src="{{asset('website/images/20210427_141541.jpg')}}" class="img-fluid"
-                                alt="">
+                            <img src="{{ asset('website/images/20210427_141541.jpg') }}" class="img-fluid" alt="">
                             <div class="social">
                                 <a href=""><i class="bi bi-twitter"></i></a>
                                 <a href=""><i class="bi bi-facebook"></i></a>
@@ -248,12 +221,10 @@
                     </div>
                 </div>
 
-                <div class="col-lg-3 col-md-6 d-flex align-items-stretch aos-init aos-animate" data-aos="fade-up"
-                    data-aos-delay="200">
+                <div class="col-lg-3 col-md-6 d-flex align-items-stretch  " data-aos="fade-up" data-aos-delay="200">
                     <div class="member">
                         <div class="member-img">
-                            <img src="{{asset('website/images/20210427_141541.jpg')}}" class="img-fluid"
-                                alt="">
+                            <img src="{{ asset('website/images/20210427_141541.jpg') }}" class="img-fluid" alt="">
                             <div class="social">
                                 <a href=""><i class="bi bi-twitter"></i></a>
                                 <a href=""><i class="bi bi-facebook"></i></a>
@@ -269,12 +240,10 @@
                     </div>
                 </div>
 
-                <div class="col-lg-3 col-md-6 d-flex align-items-stretch aos-init aos-animate" data-aos="fade-up"
-                    data-aos-delay="300">
+                <div class="col-lg-3 col-md-6 d-flex align-items-stretch  " data-aos="fade-up" data-aos-delay="300">
                     <div class="member">
                         <div class="member-img">
-                            <img src="{{asset('website/images/20210427_141541.')}}" class="img-fluid"
-                                alt="">
+                            <img src="{{ asset('website/images/20210427_141541.') }}" class="img-fluid" alt="">
                             <div class="social">
                                 <a href=""><i class="bi bi-twitter"></i></a>
                                 <a href=""><i class="bi bi-facebook"></i></a>
@@ -290,12 +259,10 @@
                     </div>
                 </div>
 
-                <div class="col-lg-3 col-md-6 d-flex align-items-stretch aos-init aos-animate" data-aos="fade-up"
-                    data-aos-delay="400">
+                <div class="col-lg-3 col-md-6 d-flex align-items-stretch  " data-aos="fade-up" data-aos-delay="400">
                     <div class="member">
                         <div class="member-img">
-                            <img src="{{asset('website/images/20210427_141541.jpg')}}" class="img-fluid"
-                                alt="">
+                            <img src="{{ asset('website/images/20210427_141541.jpg') }}" class="img-fluid" alt="">
                             <div class="social">
                                 <a href=""><i class="bi bi-twitter"></i></a>
                                 <a href=""><i class="bi bi-facebook"></i></a>
@@ -318,7 +285,7 @@
     </section>
     <section id="team" class="team">
 
-        <div class="container aos-init aos-animate" data-aos="fade-up">
+        <div class="container  " data-aos="fade-up">
 
             <header class="section-header">
                 <h2>Histórias de vida</h2>
@@ -327,12 +294,10 @@
 
             <div class="row gy-4">
 
-                <div class="col-lg-3 col-md-6 d-flex align-items-stretch aos-init aos-animate" data-aos="fade-up"
-                    data-aos-delay="100">
+                <div class="col-lg-3 col-md-6 d-flex align-items-stretch  " data-aos="fade-up" data-aos-delay="100">
                     <div class="member">
                         <div class="member-img">
-                            <img src="{{asset('website/images/20210427_141541.jpg')}}" class="img-fluid"
-                                alt="">
+                            <img src="{{ asset('website/images/20210427_141541.jpg') }}" class="img-fluid" alt="">
                             <div class="social">
                                 <a href=""><i class="bi bi-twitter"></i></a>
                                 <a href=""><i class="bi bi-facebook"></i></a>
@@ -348,12 +313,10 @@
                     </div>
                 </div>
 
-                <div class="col-lg-3 col-md-6 d-flex align-items-stretch aos-init aos-animate" data-aos="fade-up"
-                    data-aos-delay="200">
+                <div class="col-lg-3 col-md-6 d-flex align-items-stretch  " data-aos="fade-up" data-aos-delay="200">
                     <div class="member">
                         <div class="member-img">
-                            <img src="{{asset('website/images/20210427_141541.jpg')}}" class="img-fluid"
-                                alt="">
+                            <img src="{{ asset('website/images/20210427_141541.jpg') }}" class="img-fluid" alt="">
                             <div class="social">
                                 <a href=""><i class="bi bi-twitter"></i></a>
                                 <a href=""><i class="bi bi-facebook"></i></a>
@@ -369,12 +332,10 @@
                     </div>
                 </div>
 
-                <div class="col-lg-3 col-md-6 d-flex align-items-stretch aos-init aos-animate" data-aos="fade-up"
-                    data-aos-delay="300">
+                <div class="col-lg-3 col-md-6 d-flex align-items-stretch  " data-aos="fade-up" data-aos-delay="300">
                     <div class="member">
                         <div class="member-img">
-                            <img src="{{asset('website/images/20210427_141541.jpg')}}" class="img-fluid"
-                                alt="">
+                            <img src="{{ asset('website/images/20210427_141541.jpg') }}" class="img-fluid" alt="">
                             <div class="social">
                                 <a href=""><i class="bi bi-twitter"></i></a>
                                 <a href=""><i class="bi bi-facebook"></i></a>
@@ -390,12 +351,10 @@
                     </div>
                 </div>
 
-                <div class="col-lg-3 col-md-6 d-flex align-items-stretch aos-init aos-animate" data-aos="fade-up"
-                    data-aos-delay="400">
+                <div class="col-lg-3 col-md-6 d-flex align-items-stretch  " data-aos="fade-up" data-aos-delay="400">
                     <div class="member">
                         <div class="member-img">
-                            <img src="{{asset('website/images/20210427_141541.jpg')}}" class="img-fluid"
-                                alt="">
+                            <img src="{{ asset('website/images/20210427_141541.jpg') }}" class="img-fluid" alt="">
                             <div class="social">
                                 <a href=""><i class="bi bi-twitter"></i></a>
                                 <a href=""><i class="bi bi-facebook"></i></a>
