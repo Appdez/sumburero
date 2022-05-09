@@ -49,18 +49,10 @@
                 <a class="nav-link" href="#">Sobre nós</a>
             </li>
             <li class="nav-item">
-                <a class="nav-link  @if (request()->routeIs('contact')) active @endif" {{ route('contact') }}>Contacte -nos</a>
+                <a class="nav-link  @if (request()->routeIs('contact')) active @endif"  href="{{ route('contact') }}">Contacte -nos</a>
             </li>
         </ul>
     </div>
 </div>
 
-<div class="offcanvas offcanvas-top" tabindex="-1" id="offcanvasExample" aria-labelledby="offcanvasExampleLabel">
-    <div class="offcanvas-header">
-        <h5 class="offcanvas-title" id="offcanvasExampleLabel">Search</h5>
-        <button type="button" class="btn-close text-reset" data-bs-dismiss="offcanvas" aria-label="Close"></button>
-    </div>
-    <div class="offcanvas-body">
 
-    </div>
-</div>
