@@ -186,7 +186,7 @@
                 <div class="col-lg-3 col-md-6 d-flex align-items-stretch  " data-aos="fade-up" data-aos-delay="100">
                     <div class="member">
                         <div class="member-img">
-                            <img src="{{ asset('website/images/20210427_141541.jpg') }}" class="img-fluid" alt="">
+                            <img src="{{ asset('website/images/tiptap.jpg') }}" class="img-fluid" alt="">
                             <div class="social">
                                 <a href=""><i class="bi bi-twitter"></i></a>
                                 <a href=""><i class="bi bi-facebook"></i></a>
@@ -196,8 +196,10 @@
                         </div>
                         <div class="member-info">
 
-                            <p>Velit aut quia fugit et et. Dolorum ea voluptate vel tempore tenetur ipsa quae aut. Ipsum
-                                exercitationem iure minima enim corporis et voluptate.</p>
+                            <p>Sumburero em parceria com a CCM e Essor vem realizando actividades de montagem de Tippy Taps,
+                                senilização sobre a prevenção do COV19 com recurso a cartazes para ajudar a comunidade a
+                                estar seguro neste momento de crise que assola o pais, por via desta informar que mesmo na
+                                crise a nós e os nossos parceiro sempre estaremos prontos para ajudar a comunidade.</p>
                         </div>
                     </div>
                 </div>
@@ -205,7 +207,7 @@
                 <div class="col-lg-3 col-md-6 d-flex align-items-stretch  " data-aos="fade-up" data-aos-delay="200">
                     <div class="member">
                         <div class="member-img">
-                            <img src="{{ asset('website/images/20210427_141541.jpg') }}" class="img-fluid" alt="">
+                            <img src="{{ asset('website/images/dicBi.png') }}" class="img-fluid" alt="">
                             <div class="social">
                                 <a href=""><i class="bi bi-twitter"></i></a>
                                 <a href=""><i class="bi bi-facebook"></i></a>
@@ -215,8 +217,7 @@
                         </div>
                         <div class="member-info">
 
-                            <p>Quo esse repellendus quia id. Est eum et accusantium pariatur fugit nihil minima suscipit
-                                corporis. Voluptate sed quas reiciendis animi neque sapiente.</p>
+                            <p>Apos o (longo) período de Estado de Emergência em Moçambique, onde diversos serviços ficaram bloqueados, finalmente os Balcões de informação e orientação social e profissional podem contar novamente com a DIC para a emissão de BI's.</p>
                         </div>
                     </div>
                 </div>
@@ -224,7 +225,7 @@
                 <div class="col-lg-3 col-md-6 d-flex align-items-stretch  " data-aos="fade-up" data-aos-delay="300">
                     <div class="member">
                         <div class="member-img">
-                            <img src="{{ asset('website/images/20210427_141541.jpg') }}" class="img-fluid" alt="">
+                            <img src="{{ asset('website/images/formacao_violencia.png') }}" class="img-fluid" alt="">
                             <div class="social">
                                 <a href=""><i class="bi bi-twitter"></i></a>
                                 <a href=""><i class="bi bi-facebook"></i></a>
@@ -234,8 +235,7 @@
                         </div>
                         <div class="member-info">
 
-                            <p>Vero omnis enim consequatur. Voluptas consectetur unde qui molestiae deserunt. Voluptates
-                                enim aut architecto porro aspernatur molestiae modi.</p>
+                            <p> Formação para os AOSP sobre direitos humanos e violência doméstica pela PNDH e também sobre visitas domiciliares e atestados de pobreza pela Acção Social da Beira.</p>
                         </div>
                     </div>
                 </div>
@@ -243,7 +243,7 @@
                 <div class="col-lg-3 col-md-6 d-flex align-items-stretch  " data-aos="fade-up" data-aos-delay="400">
                     <div class="member">
                         <div class="member-img">
-                            <img src="{{ asset('website/images/20210427_141541.jpg') }}" class="img-fluid" alt="">
+                            <img src="{{ asset('website/images/limpeza_naPraia.png') }}" class="img-fluid" alt="">
                             <div class="social">
                                 <a href=""><i class="bi bi-twitter"></i></a>
                                 <a href=""><i class="bi bi-facebook"></i></a>
@@ -253,8 +253,7 @@
                         </div>
                         <div class="member-info">
 
-                            <p>Rerum voluptate non adipisci animi distinctio et deserunt amet voluptas. Quia aut aliquid
-                                doloremque ut possimus ipsum officia.</p>
+                            <p>No dia 12 de Agosto (Dia da Juventude) os AOSP junto dos animadores do projecto EDUCAÇÃO da ESSOR, deram o seu contributo na limpeza das praias da cidade da Beira, ajudando na preservação do meio ambiente.</p>
                         </div>
                     </div>
                 </div>
@@ -275,7 +274,7 @@
 
             <div class="row gy-4">
 
-                <div class="col-lg-3 col-md-6 d-flex align-items-stretch  " data-aos="fade-up" data-aos-delay="100">
+                {{-- <div class="col-lg-3 col-md-6 d-flex align-items-stretch  " data-aos="fade-up" data-aos-delay="100">
                     <div class="member">
                         <div class="member-img">
                             <img src="{{ asset('website/images/20210427_141541.jpg') }}" class="img-fluid" alt="">
@@ -344,12 +343,12 @@
                             </div>
                         </div>
                         <div class="member-info">
-                          
+
                             <p>Rerum voluptate non adipisci animi distinctio et deserunt amet voluptas. Quia aut aliquid
                                 doloremque ut possimus ipsum officia.</p>
                         </div>
                     </div>
-                </div>
+                </div> --}}
 
             </div>
 
