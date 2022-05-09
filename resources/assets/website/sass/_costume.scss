@@ -1,6 +1,18 @@
 .no-border {
     border: none !important;
 }
+/*----------------------
+Off canvas Css
+
+*/
+li.offcanvas-item.active {
+    background: #eaf3ff;
+    border-radius: 7px;
+}
+a.offcanvas-link{
+    color: #1c1b1b;
+    padding: 10px;
+}
 
 //
 @each $size,
