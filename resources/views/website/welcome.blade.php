@@ -96,7 +96,7 @@
                                     <i class="ri-stack-line"></i>
                                     <div>
                                         <h4>Formação e Inserção profissional</h4>
-                                        <p>Visa apoiar jovens e adulta na potencialização de habilidades para o mercado e de
+                                        <p>Apoio a jovens e adultos na potencialização de suas habilidades para o mercado de
                                             emprego.</p>
                                     </div>
                                 </div>
@@ -106,8 +106,8 @@
                                     <i class="ri-brush-4-line"></i>
                                     <div>
                                         <h4>Proteção social</h4>
-                                        <p>Aut suscipit aut cum nemo deleniti aut omnis. Doloribus ut maiores omnis facere
-                                        </p>
+                                        <p>Promomeção de actividades culturais, desportivas e acções concrectas nas
+                                            comunidades que visam promover o bem estar das familias vulneráveis. </p>
                                     </div>
                                 </div>
 
@@ -116,7 +116,7 @@
                                     <i class="ri-magic-line"></i>
                                     <div>
                                         <h4>Monitoria e Avaliação</h4>
-                                        <p>Expedita veritatis consequuntur nihil tempore laudantium vitae denat pacta</p>
+                                        <p>Elaboração de ferramentas informáticas adaptadas facilitando o processo de monitoria e avaliação das acções/projectos</p>
                                     </div>
                                 </div>
 
@@ -125,7 +125,11 @@
                                     <i class="ri-command-line"></i>
                                     <div>
                                         <h4>Apoio Institucional</h4>
-                                        <p>Et fuga et deserunt et enim. Dolorem architecto ratione tensa raptor marte</p>
+                                        <p>Realização de estudos que ajudem a reorientar
+                                            as estrategias de intervencao das OCBs e
+                                            as OCB’s na elaboração de
+                                            propostas de projectos que visam a
+                                            Protecção Social</p>
                                     </div>
                                 </div>
                             </div>
@@ -196,10 +200,9 @@
                         </div>
                         <div class="member-info">
 
-                            <p>Sumburero em parceria com a CCM e Essor vem realizando actividades de montagem de Tippy Taps,
-                                senilização sobre a prevenção do COV19 com recurso a cartazes para ajudar a comunidade a
-                                estar seguro neste momento de crise que assola o pais, por via desta informar que mesmo na
-                                crise a nós e os nossos parceiro sempre estaremos prontos para ajudar a comunidade.</p>
+                            <p>Montagem de Tippy Taps,
+                                senilização  em parceria com a <strong><a href="https://www.essor-ong.org/">Essor</a></strong> e <strong><a href="https://www.ccm.org.mz/">CCM</a></strong> sobre a prevenção do COV19 com recurso a cartazes para ajudar a comunidade a
+                                estar seguro neste momento de crise que assola o pais.</p>
                         </div>
                     </div>
                 </div>

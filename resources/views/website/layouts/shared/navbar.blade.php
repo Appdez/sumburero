@@ -10,7 +10,7 @@
         <div class="collapse navbar-collapse" id="navbarTogglerDemo02">
             <ul class="navbar-nav me-auto mb-2 mb-lg-0">
                 <li class="nav-item">
-                    <a class="nav-link active" aria-current="page" href="#">Início</a>
+                    <a class="nav-link @if (request()->routeIs('welcome')) active @endif" aria-current="page" href="{{ route('welcome') }}">Início</a>
                 </li>
                 <li class="nav-item">
                     <a class="nav-link" href="#">Actividades</a>
@@ -19,7 +19,7 @@
                     <a class="nav-link" href="#">Sobre nós</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link ">Contacte -nos</a>
+                    <a class="nav-link  @if (request()->routeIs('contact')) active @endif" href="{{ route('contact') }}">Contacte -nos</a>
                 </li>
             </ul>
         </div>

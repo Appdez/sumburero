@@ -16,8 +16,10 @@ use Illuminate\Support\Facades\Route;
 
 Route::get('/', function () {
     return view('website.welcome');
-});
-
+})->name('welcome');
+Route::get('/contact', function () {
+    return view('website.contacto');
+})->name('contact');
 Auth::routes([
     'register' => false,
     'reset' => false,
