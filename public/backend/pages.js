@@ -40145,10 +40145,12 @@ $(document).ready(function () {
       lengthMenu: [[5, 10, 15, 20, 25, 50, 100, -1], ['5', '10', '15', '20', '25', '50', '100', 'Show all']],
       "bLengthChange": false,
       "bInfo": false
-    }); //$('select').select2();
+    });
+    $('select').select2();
   } // datatable('#example');
-  // datatable('#users_table');
-  // datatable('#periods_table');
+
+
+  datatable('#users_table'); // datatable('#periods_table');
   // datatable('#civil_states_table');
   // datatable('#payment_phases_table');
   // datatable('#students_table');
@@ -40206,7 +40208,6 @@ $(document).ready(function () {
   //     timeFormat: 'H:i',
   //     disableTimeRanges:[['0:00', '5:30'], ['21:00', '23:59']]
   // });
-
 });
 })();
 
