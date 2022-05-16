@@ -67,7 +67,7 @@
                    Rua Condestável 1,783 <br>
                     Cidade da Beira, Sofala<br>
                     Moçambique <br><br>
-                    <strong>Phone:</strong> +258 84 595 0861<br>
+                    <strong>Phone:</strong> +258 84 485 6857/+258 84 582 0730/+258 87 623 3682<br>
                     <strong>Email:</strong> geral.sumburero@gmail.com<br>
                   </p>
 

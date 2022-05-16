@@ -51,10 +51,9 @@
                             <div class="card no-border p-16-px">
                                 <div class="card-body">
                                     <h3>Missão</h3>
-                                    <p>É de promover o desenvolvimento sustentável de estratégias de acção que visam
-                                        contribuir para a protecção Social da criança através de realização de pesquisas,
-                                        assistência técnica, desenvolvimento de ferramentas informáticas para monitoria e
-                                        avaliação dos projectos, mobilização de recursos e recolha de doações.</p>
+                                    <p>É de promover o desenvolvimento sustentável através de pesquisas,
+                                        assistência técnica, desenvolvimento de ferramentas de monitoria e
+                                        avaliação dos projectos, mobilização de recursos para projectos socias.</p>
                                 </div>
                             </div>
                         </div>
@@ -62,10 +61,9 @@
                             <div class="card no-border p-16-px">
                                 <div class="card-body">
                                     <h3>Visão</h3>
-                                    <p>É de uma sociedade que zela pelos direitos das suas crianças garantindo a estas o
-                                        acesso a educação básica, a água e saneamento, aos cuidados de saúde materno
-                                        infantil, a medicina preventiva, a protecção e ao lazer, promovendo assim um bom
-                                        desenvolvimento psicossocial das crianças de Sofala.</p>
+                                    <p>É de uma sociedade que zela pelos seus direitos, das crianças em situação de
+                                        vulnerabilidade, garantido o acesso a educação básica, saúde, proteçào, alimentação
+                                        e promovendo um desenvolvimento psicosocial.</p>
                                 </div>
                             </div>
                         </div>
@@ -97,7 +95,7 @@
                                     <div>
                                         <h4>Formação e Inserção profissional</h4>
                                         <p>Apoio a jovens e adultos na potencialização de suas habilidades para o mercado de
-                                            emprego.</p>
+                                            emprego e auto emprego.</p>
                                     </div>
                                 </div>
 
@@ -106,8 +104,8 @@
                                     <i class="ri-brush-4-line"></i>
                                     <div>
                                         <h4>Proteção social</h4>
-                                        <p>Promomeção de actividades culturais, desportivas e acções concrectas nas
-                                            comunidades que visam promover o bem estar das familias vulneráveis. </p>
+                                        <p>Promoção de actividades culturais, desportivas, jurídicas e acções concrectas nas
+                                            comunidades que contribuam para o bem estar das familias vulneráveis. </p>
                                     </div>
                                 </div>
 
@@ -116,7 +114,7 @@
                                     <i class="ri-magic-line"></i>
                                     <div>
                                         <h4>Monitoria e Avaliação</h4>
-                                        <p>Elaboração de ferramentas informáticas adaptadas facilitando o processo de monitoria e avaliação das acções/projectos</p>
+                                        <p>Criação de ferramentas informáticas que facilitam a monitoria de acções, projectos e resultados.</p>
                                     </div>
                                 </div>
 
@@ -125,11 +123,11 @@
                                     <i class="ri-command-line"></i>
                                     <div>
                                         <h4>Apoio Institucional</h4>
-                                        <p>Realização de estudos que ajudem a reorientar
-                                            as estrategias de intervencao das OCBs e
-                                            as OCB’s na elaboração de
-                                            propostas de projectos que visam a
-                                            Protecção Social</p>
+                                        <p>Realização de estudos que ajudem a orientar
+                                            as estrategias de intervenção comunitária das OCB's.
+                                            realização de formações em desenvolvimento institucional,
+                                            elaboração de micro projectos e gestão financeira.
+                                        </p>
                                     </div>
                                 </div>
                             </div>
@@ -159,7 +157,7 @@
                                 <h2>Unidade Móvel</h2>
                                 <p>
                                     É uma brigada que visa levar os serviços socias as comunidades que
-                                    localizam –se em zonas com difícil acesso a transporte, que tem menos conhecimentos
+                                    localizam –se em zonas com menos acesso a transporte, a conhecimentos
                                     sobre a importância de se beneficiar destes serviços .
                                 </p>
 
@@ -201,7 +199,10 @@
                         <div class="member-info">
 
                             <p>Montagem de Tippy Taps,
-                                senilização  em parceria com a <strong><a href="https://www.essor-ong.org/">Essor</a></strong> e <strong><a href="https://www.ccm.org.mz/">CCM</a></strong> sobre a prevenção do COV19 com recurso a cartazes para ajudar a comunidade a
+                                senilização em parceria com a <strong><a
+                                        href="https://www.essor-ong.org/">Essor</a></strong> e <strong><a
+                                        href="https://www.ccm.org.mz/">CCM</a></strong> sobre a prevenção do COV19 com
+                                recurso a cartazes para ajudar a comunidade a
                                 estar seguro neste momento de crise que assola o pais.</p>
                         </div>
                     </div>
@@ -220,7 +221,9 @@
                         </div>
                         <div class="member-info">
 
-                            <p>Apos o (longo) período de Estado de Emergência em Moçambique, onde diversos serviços ficaram bloqueados, finalmente os Balcões de informação e orientação social e profissional podem contar novamente com a DIC para a emissão de BI's.</p>
+                            <p>Apos o (longo) período de Estado de Emergência em Moçambique, onde diversos serviços ficaram
+                                bloqueados, finalmente os Balcões de informação e orientação social e profissional podem
+                                contar novamente com a DIC para a emissão de BI's.</p>
                         </div>
                     </div>
                 </div>
@@ -238,7 +241,8 @@
                         </div>
                         <div class="member-info">
 
-                            <p> Formação para os AOSP sobre direitos humanos e violência doméstica pela PNDH e também sobre visitas domiciliares e atestados de pobreza pela Acção Social da Beira.</p>
+                            <p> Formação para os AOSP sobre direitos humanos e violência doméstica pela PNDH e também sobre
+                                visitas domiciliares e atestados de pobreza pela Acção Social da Beira.</p>
                         </div>
                     </div>
                 </div>
@@ -256,7 +260,8 @@
                         </div>
                         <div class="member-info">
 
-                            <p>No dia 12 de Agosto (Dia da Juventude) os AOSP junto dos animadores do projecto EDUCAÇÃO da ESSOR, deram o seu contributo na limpeza das praias da cidade da Beira, ajudando na preservação do meio ambiente.</p>
+                            <p>Limpeza das praias, plantação de arvores e educação cívica na cidade da Beira,  ajudando na
+                                preservação do meio ambiente.</p>
                         </div>
                     </div>
                 </div>
@@ -274,86 +279,6 @@
                 <h2>Histórias de vida</h2>
                 <p>Benificiários</p>
             </header>
-
-            <div class="row gy-4">
-
-                {{-- <div class="col-lg-3 col-md-6 d-flex align-items-stretch  " data-aos="fade-up" data-aos-delay="100">
-                    <div class="member">
-                        <div class="member-img">
-                            <img src="{{ asset('website/images/20210427_141541.jpg') }}" class="img-fluid" alt="">
-                            <div class="social">
-                                <a href=""><i class="bi bi-twitter"></i></a>
-                                <a href=""><i class="bi bi-facebook"></i></a>
-                                <a href=""><i class="bi bi-instagram"></i></a>
-                                <a href=""><i class="bi bi-linkedin"></i></a>
-                            </div>
-                        </div>
-                        <div class="member-info">
-
-                            <p>Velit aut quia fugit et et. Dolorum ea voluptate vel tempore tenetur ipsa quae aut. Ipsum
-                                exercitationem iure minima enim corporis et voluptate.</p>
-                        </div>
-                    </div>
-                </div>
-
-                <div class="col-lg-3 col-md-6 d-flex align-items-stretch  " data-aos="fade-up" data-aos-delay="200">
-                    <div class="member">
-                        <div class="member-img">
-                            <img src="{{ asset('website/images/20210427_141541.jpg') }}" class="img-fluid" alt="">
-                            <div class="social">
-                                <a href=""><i class="bi bi-twitter"></i></a>
-                                <a href=""><i class="bi bi-facebook"></i></a>
-                                <a href=""><i class="bi bi-instagram"></i></a>
-                                <a href=""><i class="bi bi-linkedin"></i></a>
-                            </div>
-                        </div>
-                        <div class="member-info">
-
-                            <p>Quo esse repellendus quia id. Est eum et accusantium pariatur fugit nihil minima suscipit
-                                corporis. Voluptate sed quas reiciendis animi neque sapiente.</p>
-                        </div>
-                    </div>
-                </div>
-
-                <div class="col-lg-3 col-md-6 d-flex align-items-stretch  " data-aos="fade-up" data-aos-delay="300">
-                    <div class="member">
-                        <div class="member-img">
-                            <img src="{{ asset('website/images/20210427_141541.jpg') }}" class="img-fluid" alt="">
-                            <div class="social">
-                                <a href=""><i class="bi bi-twitter"></i></a>
-                                <a href=""><i class="bi bi-facebook"></i></a>
-                                <a href=""><i class="bi bi-instagram"></i></a>
-                                <a href=""><i class="bi bi-linkedin"></i></a>
-                            </div>
-                        </div>
-                        <div class="member-info">
-
-                            <p>Vero omnis enim consequatur. Voluptas consectetur unde qui molestiae deserunt. Voluptates
-                                enim aut architecto porro aspernatur molestiae modi.</p>
-                        </div>
-                    </div>
-                </div>
-
-                <div class="col-lg-3 col-md-6 d-flex align-items-stretch  " data-aos="fade-up" data-aos-delay="400">
-                    <div class="member">
-                        <div class="member-img">
-                            <img src="{{ asset('website/images/20210427_141541.jpg') }}" class="img-fluid" alt="">
-                            <div class="social">
-                                <a href=""><i class="bi bi-twitter"></i></a>
-                                <a href=""><i class="bi bi-facebook"></i></a>
-                                <a href=""><i class="bi bi-instagram"></i></a>
-                                <a href=""><i class="bi bi-linkedin"></i></a>
-                            </div>
-                        </div>
-                        <div class="member-info">
-
-                            <p>Rerum voluptate non adipisci animi distinctio et deserunt amet voluptas. Quia aut aliquid
-                                doloremque ut possimus ipsum officia.</p>
-                        </div>
-                    </div>
-                </div> --}}
-
-            </div>
 
         </div>
 
