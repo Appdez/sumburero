@@ -26,7 +26,7 @@
     </div>
 
 </nav>
-<div class=" container-fluid alert alert-danger  w-100" role="alert">
+<div class=" container-fluid alert alert-danger  w-100 mb-0 " role="alert">
     <strong>O website Sumburero ainda esta em desenvolvimento</strong>
 </div>
 </div>
