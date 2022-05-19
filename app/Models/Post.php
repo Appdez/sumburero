@@ -36,6 +36,7 @@ class Post extends Model implements HasMedia
 {
 
 	use SoftDeletes,InteractsWithMedia,HasSlug,HasTags;
+    
 	protected $table = 'posts';
 
 	protected $casts = [
