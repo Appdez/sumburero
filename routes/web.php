@@ -1,6 +1,7 @@
 <?php
 
 use App\Http\Controllers\Backend\UserController;
+use App\Http\Controllers\Backend\CategoryController;
 use Illuminate\Support\Facades\Auth;
 use Illuminate\Support\Facades\Route;
 
@@ -28,5 +29,9 @@ Auth::routes([
     'confirm' => false
 ]);
 
-Route::get('/dashboard', [App\Http\Controllers\Backend\HomeController::class, 'index'])->name('dashboard');
-Route::resource('user', UserController::class);
+
+Route::middleware(['auth'])->group(function(){
+    Route::get('/dashboard', [App\Http\Controllers\Backend\HomeController::class, 'index'])->name('dashboard');
+    Route::resource('user', UserController::class);
+    Route::resource('category', CategoryController::class);
+});

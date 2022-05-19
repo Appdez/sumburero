@@ -48,7 +48,7 @@ class Post extends Model implements HasMedia
 
 	protected $fillable = [
 		'title',
-		'Content',
+		'content',
 		'slug',
 		'published_at',
 		'category_id'
@@ -68,4 +68,13 @@ class Post extends Model implements HasMedia
             ->generateSlugsFrom('title')
             ->saveSlugsTo('slug');
     }
+
+        /**
+     * Get all of the post's sections.
+     */
+    public function sections()
+    {
+        return $this->morphMany(Section::class, 'model');
+    }
+
 }

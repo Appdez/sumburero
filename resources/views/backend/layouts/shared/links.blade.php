@@ -9,4 +9,10 @@
         <span class="align-middle">usuários</span>
     </a>
 </li>
+<li class="sidebar-item @if (request()->routeIs('category.*')) active @endif">
+    <a class="sidebar-link " href="{{ route('category.index') }}">
+        <i class="far fa-users align-middle" data-feather="layers"></i>
+        <span class="align-middle">Categorias</span>
+    </a>
+</li>
 

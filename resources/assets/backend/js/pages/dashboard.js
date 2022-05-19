@@ -259,10 +259,10 @@ $(document).ready(function () {
            "bLengthChange" : false,
            "bInfo":false,
        });
-       $('select').select2();
    }
     // datatable('#example');
     datatable('#users_table');
+    datatable('#categories_table');
     // datatable('#periods_table');
     // datatable('#civil_states_table');
     // datatable('#payment_phases_table');

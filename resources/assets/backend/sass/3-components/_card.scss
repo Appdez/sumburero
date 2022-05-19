@@ -1,6 +1,7 @@
 .card {
   margin-bottom: $grid-gutter-width;
   box-shadow: $card-shadow;
+  border: $card-border;
 }
 
 .card-header {

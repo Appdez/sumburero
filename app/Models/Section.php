@@ -53,4 +53,21 @@ class Section extends Model implements HasMedia
             ->generateSlugsFrom('title')
             ->saveSlugsTo('slug');
     }
+
+        /**
+     * Get the parent sectionable model for all models.
+     */
+    public function sectionable()
+    {
+        return $this->morphTo();
+    }
+
+
+        /**
+     * Get all of the post's sections.
+     */
+    public function sections()
+    {
+        return $this->morphMany(Section::class, 'model');
+    }
 }
